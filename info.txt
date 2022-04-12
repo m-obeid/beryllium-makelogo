@@ -1,0 +1,17 @@
+Hex editor blocks
+
+0000 - 4FFF - header
+5000 - 1DFFFF - small mi logo
+1E0000 - 3D5FFF - fastboot
+3D6000 - 5B0FFF -  mi unlocked
+5B1000 - CA1FFF - system destroyed lol
+CA2000 - EDBFFF - poco
+EDC000 - 1115FFF - poco unlocked
+1116000 - 134FFFF - poco 2
+1350000 - 1589FFF - poco 2 unlocked
+
+All images must be 24-bit BMPs
+
+Requires Python 3!
+ONLY WORKS ON BERYLLIUM MIUI 12.0.0 +
+I'M NOT RESPONSIBLE FOR ANYTHING THIS SOFTWARE DOES
